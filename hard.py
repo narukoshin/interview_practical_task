@@ -1,3 +1,7 @@
+# Author: Naru Koshin (湖心なる)
+# Software Engineer and Penetration Tester
+# Description: This script is for analyzing log files and list IP addresses that are from the Latvia and group them by the provaider, including abuse email.
+
 import subprocess
 import re
 
